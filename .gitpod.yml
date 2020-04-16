@@ -1,0 +1,8 @@
+image:
+  file: .devcontainer/Dockerfile
+tasks:
+  - init: dotnet restore
+vscode:
+  extensions:
+    - Ionide.Ionide-fsharp@4.3.1:OjecMYEuKDdiUjaTUtlrZQ==
+    - ms-vscode.csharp@1.21.7:63Epcq/w+Vl8tIwYMHyrXg==
