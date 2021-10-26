@@ -12,7 +12,7 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"Ionide.Ionide-fsharp",
-		"ms-dotnettools.csharp"
+		"muhammad-sammy.csharp"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
