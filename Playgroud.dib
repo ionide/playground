@@ -1,6 +1,6 @@
 #!meta
 
-{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"name":"csharp"}]}}
+{"kernelInfo":{"defaultKernelName":"fsharp","items":[{"aliases":[],"name":"fsharp"}]}}
 
 #!fsharp
 
