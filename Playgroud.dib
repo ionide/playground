@@ -1,0 +1,7 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"fsharp","items":[{"aliases":[],"name":"fsharp"}]}}
+
+#!fsharp
+
+printfn "Hello World from F#!"
